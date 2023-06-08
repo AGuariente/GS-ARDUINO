@@ -1,5 +1,5 @@
 # GS-ARDUINO
-Leitor de Umidade e Temperatura com Arduino
+#Leitor de Umidade e Temperatura com Arduino#
 Este projeto consiste em um leitor de umidade e temperatura desenvolvido com o Arduino. O objetivo é coletar dados em tempo real para medir a temperatura e a umidade do ambiente. O sistema utiliza sensores de temperatura e umidade conectados ao Arduino, exibindo as leituras em um display de LCD. Esse projeto pode ser útil em diversas aplicações, como monitoramento agrícola, controle de ambientes internos e sistemas de climatização.
 
 #Funcionamento
